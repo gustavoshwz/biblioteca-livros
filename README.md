@@ -1,4 +1,4 @@
-# 📚 Sistema de Gerenciamento de Biblioteca - MySQL
+#  Sistema de Gerenciamento de Biblioteca - MySQL
 
 ## Descrição  
 Projeto simples de banco de dados para gerenciar uma biblioteca, utilizando MySQL. Permite o cadastro de autores, editoras e livros, além de consultas para visualizar a biblioteca de forma organizada.
